@@ -1,0 +1,74 @@
+.flex_container{
+
+    display: flex;
+    height: 100px;
+
+}
+
+.flex_container2{
+
+    display: flex;
+    height: 400px;
+
+}
+
+.flex{
+
+    display: flex;
+    height: 1000%;
+    background-color: grey;
+
+}
+
+.flex2{
+
+    display: flex;
+    height: 100px;
+    background-color: white;
+    
+}
+
+.flex3{
+
+    display: flex;
+    height: 100px;
+    background-color: white;
+    
+}
+
+.flex4{
+
+    display: flex;
+    height: 1000%;
+    background-color: grey;
+
+}
+
+.div1{
+
+    width: 15%;
+    background-color: #Be2538;
+
+}
+
+.div2{
+    
+    width: 70%;
+    background-color: white;
+
+}
+
+.div3{
+
+    width: 15%;
+    background-color: #Be2538;
+
+}
+
+.div4{
+    width: 15%;
+    background-color: white;
+    align-items: center;
+    margin: auto;
+    padding: 0%;
+}
